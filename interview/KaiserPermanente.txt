@@ -1,0 +1,28 @@
+Company Name - Kaiser Permanente
+Location - Pune
+Role - Java Full Stack Developer
+From - Naukri
+
+Pre Screening Round (With Consultancy)
+1. Introduction
+2. Component Lifecycle in React
+3. ArrayList vs LinkedList
+4. How you do API call in React. Also tell how to manage the state like loading and error
+5. How do you handle exceptions in Spring Boot
+6. How to create an API in Spring Boot using controller
+7. What is state in React and ways to implement that
+8. SQL Question
+   Employee table -> empId and empName
+   Department Table -> depId and empId (Foreign Key)
+   List of employees who do not have department
+9. Java Code
+   Write a function (in Java) that accepts a list of integers and
+   returns the first non-repeating number.
+   If all numbers repeat, return -1.
+   -> 2,3,4,2,4,3,5,6,5,7 here first not repetative is 6
+10. Java Code
+   Given an array of strings, write a function that groups anagrams together in java
+   silent,ant,listen,nat,tan,toy
+   -> silent and listen in group
+   -> ant, nat and tan in group.
+   Give output in List<List<String>>
