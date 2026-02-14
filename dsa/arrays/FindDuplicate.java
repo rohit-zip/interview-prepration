@@ -1,4 +1,4 @@
-package dsa.arrays.medium;
+package dsa.arrays;
 
 /*
   Developer: Rohit Parihar
@@ -10,7 +10,7 @@ package dsa.arrays.medium;
 public class FindDuplicate {
 
     public static void main(String[] args) {
-        int[] arr = {3,1,3,4,2  };
+        int[] arr = {3,1,3,4,2};
         int duplicate = optimal(arr);
         System.out.println(duplicate);
     }

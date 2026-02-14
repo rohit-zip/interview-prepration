@@ -1,4 +1,4 @@
-package dsa.arrays.easy;
+package dsa.arrays;
 
 /*
   Developer: Rohit Parihar
